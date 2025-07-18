@@ -1,5 +1,5 @@
 # Andrew's module for the basic resources for deploying an application landing zone
-will create storage accounts and two identities, one for graph access and one for resource access, required for each landing zone
+will create dns zone, storage accounts and two identities, one for graph access and one for resource access, that are required for each landing zone
 
 [GitHub Repository](https://github.com/webstean/azure-application-landing-zone-setup)
 
